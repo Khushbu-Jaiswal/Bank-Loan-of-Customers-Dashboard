@@ -1,7 +1,7 @@
 # Bank-Loan-of-Customers-Dashboard
 
 Bank Loan of Customers DashboardBank Loan of Customers Dashboard
-Aug 2023 - PresentAug 2023 - Present
+
 Hello,
 Please find the latest creation of my, Power BI dashboard that provides valuable insights into Bank Financial Loan.
 ✨ Key Features:
